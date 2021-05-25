@@ -1,1 +1,1 @@
-# mp2-lab16-hash-map
+[![Build Status](https://travis-ci.com/AmelieMedved/mp2-lab16-hash-map.svg?branch=mp2-lab16-hash-map)](https://travis-ci.com/AmelieMedved/mp2-lab16-hash-map)
